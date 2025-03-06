@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://github.com/rnjs100/rnjs100/blob/master/images/react.jpg" width="100%" />
+  <img src="https://github.com/rnjs100/rnjs100/blob/main/images/react.jpg" width="100%" />
   <br><br>
   <h1>Senior React/React Native, Web3 Developer</h1>
 </div>
