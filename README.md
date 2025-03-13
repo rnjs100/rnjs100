@@ -11,3 +11,15 @@ blockchain integrations, and smart contract interactions.
 With a strong problem-solving mindset, a passion for innovation, and hands-on experience in
 cutting-edge Web3, AI, and fintech applications, I deliver high-quality software solutions that
 drive business success.
+
+## Tech Stack
+| Category   | Key Technologies                                 |
+|------------|--------------------------------------------------|
+| Front-end  | React, Next.js, React Native, Redux, TypeScript, Bootstrap, Tailwind |
+| Back-end   | Node.js, Express.js, Ruby on Rails, REST, GraphQL|
+| Deployment | Linux servers, Docker, Heroku, AWS, GCP          |
+| Databases  | MySQL, PostgreSQL, Supabase, Redis, MongoDB,  |
+| Blockchain | Ethereum, Solidity, Hardhat, TheGraph            |
+| AI/ML      | OpenAI, Weaviate, PyTorch, LangChain             |
+| Third-party| Stripe, Twilio,
+| Tools      | git, Macbook, vim, tmux, Chat GPT                |
