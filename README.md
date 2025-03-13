@@ -1,7 +1,7 @@
 <div align="center" >
   <img src="https://github.com/rnjs100/rnjs100/blob/main/images/react.jpg" width="100%" />
   <br><br>
-  <h1>Senior React/React Native, Web3 Developer</h1>
+  <h1>Senior React/React Native, MERN Developer</h1>
 </div>
 
 Highly skilled Senior React/React Native Developer with extensive experience in building
